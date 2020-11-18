@@ -1,0 +1,51 @@
+{
+  "header": {
+    "scope": "markdown",
+    "prefix": "vp-header",
+    "body": ["<Header/>"],
+    "description": "Header Component"
+  },
+  "info": {
+    "scope": "markdown",
+    "prefix": "vp-info",
+    "body": ["::: warning Info", "${1:Add Info}", ":::"],
+    "description": "Info Box"
+  },
+  "tip": {
+    "scope": "markdown",
+    "prefix": "vp-tip",
+    "body": [":::tip Tip", "${1:Add Tip}", ":::"],
+    "description": "Tip Box"
+  },
+  "expand": {
+    "scope": "markdown",
+    "prefix": "vp-expand",
+    "body": [":::details Expand to see the example output", "${1:Add Content}", ":::"],
+    "description": "Expand Box"
+  },
+  "frontmatter": {
+    "scope": "markdown",
+    "prefix": "vp-frontmatter",
+    "body": [
+      "---",
+      "title: ${1:Add Title}",
+      "description: ${2:Add Description}",
+      "meta:",
+      "  - name: \"og:description\"",
+      "    content: ${2:Add Description}",
+      "  - name: keywords",
+      "    content: ${3:Add keywords}",
+      "tags:",
+      "  - ${4:Add Tag 1}",
+      "  - ${5:Add Tag 2}",
+      "  - ${6:Add Tag 3}",
+      "---"
+    ],
+    "description": "Add default frontmatter"
+  },
+  "short-header": {
+    "prefix": "vp-short-header",
+    "body": ["<ShortHeader/>"],
+    "description": "Add short-header"
+  }
+}
