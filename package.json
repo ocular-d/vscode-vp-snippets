@@ -1,7 +1,7 @@
 {
     "name": "vuepress-snippets",
     "displayName": "VuePress Snippets",
-    "publisher": "ocld",
+    "publisher": "ocular-d",
     "description": "Custom VuePress snippets for (technical) writing",
     "version": "0.0.1",
     "engines": {
