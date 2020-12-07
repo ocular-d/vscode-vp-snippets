@@ -3,25 +3,25 @@
     "scope": "markdown",
     "prefix": "vp-header",
     "body": ["<Header/>"],
-    "description": "Header Component"
+    "description": "Add VuePress header component"
   },
   "info": {
     "scope": "markdown",
     "prefix": "vp-info",
     "body": ["::: warning Info", "${1:Add Info}", ":::"],
-    "description": "Info Box"
+    "description": "Add VuePress info admonition"
   },
   "tip": {
     "scope": "markdown",
     "prefix": "vp-tip",
     "body": [":::tip Tip", "${1:Add Tip}", ":::"],
-    "description": "Tip Box"
+    "description": "Add VuePress tip admonition"
   },
   "expand": {
     "scope": "markdown",
     "prefix": "vp-expand",
     "body": [":::details Expand to see the example output", "${1:Add Content}", ":::"],
-    "description": "Expand Box"
+    "description": "Add VuePress expand admonition"
   },
   "frontmatter": {
     "scope": "markdown",
@@ -41,11 +41,31 @@
       "  - ${6:Add Tag 3}",
       "---"
     ],
-    "description": "Add default frontmatter"
+    "description": "Add VuePress default frontmatter"
   },
   "short-header": {
     "prefix": "vp-short-header",
     "body": ["<ShortHeader/>"],
-    "description": "Add short-header"
+    "description": "Add VuePress short-header component"
+  },
+  "vp-code-group": {
+    "scope": "markdown",
+    "prefix": "vp-code-group",
+    "body": [
+      "<code-group>",
+      "<code-block title=\"${1:Block Title}\">",
+      "```${2:Code Lang}",
+      "${3:Post Here Code Example}",
+      "```",
+      "</code-block>",
+      "",
+      "<code-block title=\"${1:Block Title}\">",
+      "```${2:Code Lang}",
+      "${3:Post Here Code Example}",
+      "```",
+      "</code-block>",
+      "</code-group>"
+    ],
+    "description": "Add VuePress Code Groups"
   }
 }

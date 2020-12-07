@@ -30,12 +30,43 @@
 
 Custom VuePress Markdown snippets for VS Code.
 
-| The snippets follow the ocular-d [content style guide](https://ocular-d.github.io/styleguide-editorial/).
+> The snippets follow the ocular-d [content style guide](https://ocular-d.github.io/styleguide-editorial/).
 
-## 🚀 Usage
+## 🚀 Snippets
 
-TBC
+### Admonitions
 
+#### Info
+
+Prefix: `vp-info`
+
+#### Tip
+
+Prefix: `vp-tip`
+
+##### Expand
+
+Prefix: `vp-expand`
+
+### Components
+
+#### Header
+
+Prefix: `vp-header`
+
+#### ShortHeader
+
+Prefix: `vp-short-header`
+
+#### Code Groups and Code Blocks
+
+Prefix: `vp-code-group`
+
+### Content
+
+#### Frontmatter
+
+Prefix: `vp-frontmater`
 ## 🤝 Contributing
 
 We are a community effort, and everybody is most welcome to participate!

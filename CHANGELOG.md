@@ -1,14 +1,12 @@
 # Change Log
 
-All notable changes to the "ocld-snippets" extension will be documented in this file.
+All notable changes to the extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+### [0.0.2]
 
-### [0.0.2}
-
-- Add snippet for 'link'
+- Add snippet for VuePress Code Groups
 
 ### [0.0.1]
 
