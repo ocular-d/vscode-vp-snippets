@@ -32,7 +32,7 @@ Custom VuePress Markdown snippets for VS Code.
 
 > The snippets follow the ocular-d [content style guide](https://ocular-d.github.io/styleguide-editorial/).
 
-## 🚀 Snippets
+## 🚀 Usage
 
 ### Admonitions
 
