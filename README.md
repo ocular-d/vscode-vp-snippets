@@ -2,20 +2,17 @@
 
 <br />
 <p align="center">
-  <h1 align="center">VuePress Snippets</h1>
-  <img src="https://raw.githubusercontent.com/ocular-d/vscode-vp-snippets/main/icon.png" alt="Logo" width="90" height="90">
-
-  <p align="center">
-    Custom Snippets for (technical) writing
-    <br />
-    <a href="https://github.com/ocular-d/vscode-vp-snippets"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ocular-d/vscode-vp/issues">Report Bug</a>
+  <a href="https://github.com/ocular-d/vscode-vp-snippets">
+    <img src="https://raw.githubusercontent.com/ocular-d/vscode-vp-snippets/main/icon.png" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center"> Custom VuePress snippets for (technical) writing</h3>
+<p align="center">
+  <a href="https://github.com/ocular-d/vscode-vp/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ocular-d/vscode-vp-snippets/issues">Request Feature</a>
-  </p>
+  <a href="https://github.com/ocular-d/vscode-vp-snippets/issues">Request Feature</a>
 </p>
+</p>
+
 
 <!-- TABLE OF CONTENTS -->
 
