@@ -3,6 +3,7 @@
 <br />
 <p align="center">
   <h1 align="center">VuePress Snippets</h1>
+  <img src="https://raw.githubusercontent.com/ocular-d/vscode-vp-snippets/icon.png" alt="Logo" width="90" height="90">
 
   <p align="center">
     Custom Snippets for (technical) writing
@@ -23,8 +24,8 @@
 - [About the Project](#about)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#📝-license)
-- [Credits](#🙏-credits)
+- [License](#license)
+- [Credits](#credits)
 
 ## About
 
@@ -32,7 +33,7 @@ Custom VuePress Markdown snippets for VS Code.
 
 > The snippets follow the ocular-d [content style guide](https://ocular-d.github.io/styleguide-editorial/).
 
-## 🚀 Usage
+## Usage
 
 ### Admonitions
 
@@ -67,13 +68,13 @@ Prefix: `vp-code-group`
 #### Frontmatter
 
 Prefix: `vp-frontmater`
-## 🤝 Contributing
+## Contributing
 
 We are a community effort, and everybody is most welcome to participate!
 
 Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution,
 we encourage contributions from everyone.
 
-## 📝 License
+## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/ "Link to license") license.
