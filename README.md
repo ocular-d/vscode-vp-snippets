@@ -7,7 +7,7 @@
   </a>
   <h3 align="center"> Custom VuePress snippets for (technical) writing</h3>
 <p align="center">
-  <a href="https://github.com/ocular-d/vscode-vp/issues">Report Bug</a>
+  <a href="https://github.com/ocular-d/vscode-vp-snippets/issues">Report Bug</a>
     ·
   <a href="https://github.com/ocular-d/vscode-vp-snippets/issues">Request Feature</a>
 </p>
