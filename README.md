@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <h1 align="center">VuePress Snippets</h1>
-  <img src="https://raw.githubusercontent.com/ocular-d/vscode-vp-snippets/icon.png" alt="Logo" width="90" height="90">
+  <img src="https://raw.githubusercontent.com/ocular-d/vscode-vp-snippets/main/icon.png" alt="Logo" width="90" height="90">
 
   <p align="center">
     Custom Snippets for (technical) writing
